@@ -44,14 +44,15 @@ Everything below is built and maintained by Zano engineers.
 | [**ZView GUI**](https://github.com/zano-systems/zview-gui) | A browser frontend for ZView, built with GPUI Kit and WebAssembly. |
 | [**zbus-dbus-bridge**](https://github.com/zano-systems/zbus-dbus-bridge) | Connects Zephyr® (ZBus) and Linux (D-Bus) on an AMP MPU. |
 
-## What we do
+## For clients - What we do
+Zano supports the complete product lifecycle while keeping firmware, hardware and validation aligned.
 
 - **Architecture & product firmware:** system architecture, BLE/LoRa/Wi-Fi, low power, MCUboot and OTA, device management.
 - **Board enablement & drivers:** bring-up, Devicetree, custom drivers, upstream support.
 - **Testing & optimization:** HIL test benches, power profiling, tracing, CI automation.
 - **Custom electronic design:** schematics, multilayer PCB layout, prototype validation, DFM/DFT.
 
-Have a Zephyr® project in mind? Tell us about it at
+## Have a Zephyr® project in mind? Tell us about it at
 **[zano.systems](https://zano.systems/#contact)** or **[contact@zano.systems](mailto:contact@zano.systems)**.
 
 <sub>Zephyr® is a registered trademark of The Linux Foundation. Zano is independent and not affiliated with The Linux Foundation.</sub>
