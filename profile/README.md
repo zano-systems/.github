@@ -52,7 +52,7 @@ Zano supports the complete product lifecycle while keeping firmware, hardware an
 - **Testing & optimization:** HIL test benches, power profiling, tracing, CI automation.
 - **Custom electronic design:** schematics, multilayer PCB layout, prototype validation, DFM/DFT.
 
-## Have a Zephyr® project in mind? Tell us about it at
+## Have a Zephyr® project in mind? Tell us about it
 **[zano.systems](https://zano.systems/#contact)** or **[contact@zano.systems](mailto:contact@zano.systems)**.
 
 <sub>Zephyr® is a registered trademark of The Linux Foundation. Zano is independent and not affiliated with The Linux Foundation.</sub>
